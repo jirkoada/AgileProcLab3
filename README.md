@@ -1,3 +1,3 @@
 This is the readme file for the tutorial repository.
-Diff test line...
+
 Adding a new line yo.
