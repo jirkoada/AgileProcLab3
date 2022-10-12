@@ -9,3 +9,5 @@ Change made in dazzling_feature to provoke conflict
 Change to be stashed
 
 Change made as collaborator.
+
+Aloha
